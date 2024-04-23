@@ -1425,7 +1425,7 @@ function MakeDraggable(topbarobject, object)
 end
 MakeDraggable(DropShadowHolder,DropShadowHolder)
 DisButton.MouseButton1Down:Connect(function()
-    setclipboard("https://.gg/ugF7s4GZ53")
+    setclipboard("https://discord.gg/baokhanh")
 end)
 SkipButton.MouseButton1Down:Connect(function()
     SkipPlayer()
