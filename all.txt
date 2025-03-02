@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mizuharasup/khanhsexdasf/refs/heads/main/Cursed%20-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mizuharasup/khanhsexdasf/refs/heads/main/dark-obfuscated.lua"))()
+loadstring(game:HttpGet("http://raw.githubusercontent.com/mizuharasup/khanhsexdasf/refs/heads/main/doughjobid-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mizuharasup/khanhsexdasf/refs/heads/main/fullmoon%2Cfruit%2Cdaorong%2Cmirage-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mizuharasup/khanhsexdasf/refs/heads/main/ripindra-obfuscated.lua"))()
